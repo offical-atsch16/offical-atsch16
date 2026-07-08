@@ -8,5 +8,6 @@
 - 🤖 Exploring AI-powered development
 - 🛠️ Building private projects and experiments
 - 🌱 Always learning new technologies
+- 👨‍💻 Making **@cursor** and **@vscode** better
 
 ---
