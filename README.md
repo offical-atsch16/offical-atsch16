@@ -4,7 +4,7 @@
 ## 🚀 About Me
 
 - 🇩🇪 Hobby Software Developer from Stuttgart, Germany
-- 💻 Working with TypeScript & JavaScript
+- ☕️ I like working with microcontrollers and Arduino
 - 🤖 Exploring AI-powered development
 - 🛠️ Building private projects and experiments
 - 💻 Working with TypeScript & JavaScript
