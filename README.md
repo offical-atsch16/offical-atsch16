@@ -7,7 +7,7 @@
 - 💻 Working with TypeScript & JavaScript
 - 🤖 Exploring AI-powered development
 - 🛠️ Building private projects and experiments
-- 🌱 Always learning new technologies
+- 💻 Working with TypeScript & JavaScript
 - 👨‍💻 Making **@cursor** and **@vscode** better
 
 ---
