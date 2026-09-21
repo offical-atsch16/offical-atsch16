@@ -6,7 +6,7 @@
 - 🇩🇪 Hobby Software Developer from Stuttgart, Germany
 - ☕️ I like working with microcontrollers and Arduino
 - 🤖 Exploring AI-powered development
-- 🛠️ Building AEGIS-MESSENGER an Encrypted online Messenger
+- 🛠️ Building AEGIS-MESSENGER an Encrypted Online Messenger
 - 💻 Working with TypeScript & Python
 - 👨‍💻 Making **@cursor** and **@vscode** better
 
